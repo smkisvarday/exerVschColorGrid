@@ -29,3 +29,19 @@ You don't need to complete all the steps of this tutorial. You really only need 
 * 05:39 Push changes to your new branch to GitHub
 * 06:12 Make a pull request from your new branch to the main branch
 * 07:26 Switch which branch is serving the site
+
+## Helpful demonstrations
+
+There are many ways this could be completed. Here are a couple layout options if you're looking for suggestions.
+
+* CSS grid layout: https://www.youtube.com/watch?v=qTGbWfEEnKI
+* Another CSS grid layout: https://www.youtube.com/watch?v=v5KzBPUEgGQ
+
+I found the gaps between the boxes was easy to get using grid-gap. In the videos the presenters used the body tag as their containters. The CSS would look like
+'''Css
+body {
+  margin: 0;
+  display: grid;
+  grid-gap: 2vh;
+ }
+ '''
