@@ -39,10 +39,10 @@ There are many ways this could be completed. Here are a couple layout options if
 
 I found the gaps between the boxes was easy to get using grid-gap. In the videos the presenters used the body tag as their containters. The CSS would look like:
 
-'''Css
+```Css
 body {
   margin: 0;
   display: grid;
   grid-gap: 2vh;
  }
- '''
+ ```
