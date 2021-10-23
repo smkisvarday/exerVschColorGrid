@@ -37,7 +37,8 @@ There are many ways this could be completed. Here are a couple layout options if
 * CSS grid layout: https://www.youtube.com/watch?v=qTGbWfEEnKI
 * Another CSS grid layout: https://www.youtube.com/watch?v=v5KzBPUEgGQ
 
-I found the gaps between the boxes was easy to get using grid-gap. In the videos the presenters used the body tag as their containters. The CSS would look like
+I found the gaps between the boxes was easy to get using grid-gap. In the videos the presenters used the body tag as their containters. The CSS would look like:
+
 '''Css
 body {
   margin: 0;
